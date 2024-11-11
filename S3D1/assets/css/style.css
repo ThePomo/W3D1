@@ -1,0 +1,9 @@
+html{
+    background-color: black;
+}
+
+h1{
+display: block;
+width: 500px;
+margin: 5em;
+}
